@@ -1,7 +1,10 @@
 import java.util.ArrayList;
 import java.io.File;  // Import the File class
 import java.io.IOException;  // Import the IOException class to handle errors
-
+/**
+ * This program is designed to recap the basics of ArrayLists and be a guide to easily refer back to
+ *
+ */
 class List {
 
     public static void main(String[] args) {
